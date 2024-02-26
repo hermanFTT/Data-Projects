@@ -5,6 +5,6 @@ Deep learning deployed to tackle some questions in ecology:
 
 *bird vocalization detection in audio recordings
 
-*Penguins pose estimation q
+*Penguins pose estimation 
 
 kindly contact me to get the data used.
