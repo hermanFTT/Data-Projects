@@ -1,10 +1,2 @@
-# Data-Projects
-Deep learning deployed to tackle some questions in ecology:
-
-*green turtle behaviours classification using unbalanced accelerometer data 
-
-*bird vocalization detection in audio recordings
-
-*Penguins pose estimation 
-
-kindly contact me to get the data used.
+# Projects
+Independent and class projects related to machine learning . Some of these projects involve deep learning concepts such as DNN, deep convolutional neural networks , Decoder (U-net, V-net), transfer learning, and RNN. Others focus on MCMC, variational autoencoder (VAE), denoising diffusion model, and Bayesian modeling.
